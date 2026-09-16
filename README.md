@@ -9,6 +9,7 @@
 <br><br><h3>
 This Project is pushed and Commited 
 <br>"Trained and tuned Logistic Regression; generated predictions; added dataset download instructions".
+<br><b>91% of Predictions Matched in Amazon Reviewed Dataset Downloaded from Kaggle, link available at data/ Folder.</b>
 <br><br>
 <b>Datasets</b> are in<b> Data/</b> Folder.
 <br><b>Trained and Tuned LG Dataset</b> Submitted in<b> Output/</b> Folder.
