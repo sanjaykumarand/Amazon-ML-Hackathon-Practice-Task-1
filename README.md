@@ -3,9 +3,10 @@
 <br>Unstop Team Link: https://unstop.com/competitions/1743604/register?invitedId=UJ1K56I7
 <br><br></h3>
 <h2>Teammates:<center>
-<br><b>Akshaya Sri B - VM17000
-<br>Gokul Rathinam R - VM16908
-<br>Sanjay Kumaran D - VM17014</b></center></h2>
+<br><b>Akshaya Sri B - VM17000 - https://www.linkedin.com/in/akshaya-sri/
+<br>Gokul Rathinam R - VM16908 - https://www.linkedin.com/in/gokulrathinamr/
+<br>Sanjay Kumaran D - VM17014 - https://www.linkedin.com/in/sanjaykumarand/
+</b></center></h2>
 <br><br><h3>
 This Project is pushed and Commited 
 <br>"Trained and tuned Logistic Regression; generated predictions; added dataset download instructions".
